@@ -1,0 +1,406 @@
+nohup: ignoring input
+ * Running on http://127.0.0.1:4999/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 281-909-983
+127.0.0.1 - - [25/Apr/2019 01:33:37] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [25/Apr/2019 20:11:23] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [03/May/2019 16:06:31] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [03/May/2019 16:07:04] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [03/May/2019 16:07:04] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [03/May/2019 16:14:30] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [05/May/2019 23:15:31] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [10/May/2019 21:34:56] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [10/May/2019 21:49:07] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [10/May/2019 21:49:08] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [17/May/2019 12:28:11] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [17/May/2019 12:28:15] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [17/May/2019 12:28:18] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [17/May/2019 12:28:22] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [17/May/2019 12:28:26] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [17/May/2019 12:28:30] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [17/May/2019 12:28:34] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [17/May/2019 12:28:38] "POST /insertpersion HTTP/1.1" 200 -
+ * Detected change in '/mnt/dakaproject/daka/my_dlib_codes/face_recognition/my_face_recognition.py', reloading
+'/mnt/facenpy/'
+'/mnt/facenpy/'
+'/mnt/facenpy/'
+'/mnt/facenpy/'
+'/mnt/facenpy/'
+'/mnt/facenpy/'
+'/mnt/facenpy/'
+'/mnt/facenpy/'
+'/mnt/facenpy/'
+'/mnt/facenpy/'
+'/mnt/facenpy/'
+'/mnt/facenpy/'
+'/mnt/facenpy/'
+'/mnt/facenpy/'
+'/mnt/facenpy/'
+'/mnt/facenpy/'
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 281-909-983
+ * Detected change in '/mnt/dakaproject/daka/my_dlib_codes/face_recognition/my_face_recognition.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 281-909-983
+ * Detected change in '/mnt/dakaproject/daka/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 281-909-983
+ * Detected change in '/mnt/dakaproject/daka/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 281-909-983
+ * Detected change in '/mnt/dakaproject/daka/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 281-909-983
+ * Detected change in '/mnt/dakaproject/daka/my_dlib_codes/face_recognition/my_face_recognition.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 281-909-983
+ * Detected change in '/mnt/dakaproject/daka/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 281-909-983
+127.0.0.1 - - [20/May/2019 21:30:49] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [20/May/2019 21:30:49] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [20/May/2019 21:34:04] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [20/May/2019 21:34:04] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [20/May/2019 21:34:50] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [20/May/2019 21:34:50] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [20/May/2019 21:35:04] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [20/May/2019 21:35:04] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2019 10:01:31] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2019 10:01:35] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2019 10:03:05] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [22/May/2019 13:03:39] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [22/May/2019 13:03:56] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [22/May/2019 16:27:24] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [22/May/2019 16:27:40] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [22/May/2019 16:27:57] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [22/May/2019 16:28:13] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 07:57:10] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 07:57:26] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 07:57:26] "POST /facecompare HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1997, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1985, in wsgi_app
+    response = self.handle_exception(e)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1540, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/mnt/dakaproject/daka/app.py", line 66, in find_match_persion
+    return json.dumps(result, ensure_ascii=False)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/json.py", line 123, in dumps
+    rv = _json.dumps(obj, **kwargs)
+  File "/mnt/anaconda3/lib/python3.6/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/mnt/anaconda3/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/mnt/anaconda3/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/json.py", line 80, in default
+    return _json.JSONEncoder.default(self, o)
+  File "/mnt/anaconda3/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'FileNotFoundError' is not JSON serializable
+127.0.0.1 - - [23/May/2019 07:57:42] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 07:57:42] "POST /facecompare HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1997, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1985, in wsgi_app
+    response = self.handle_exception(e)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1540, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/mnt/dakaproject/daka/app.py", line 66, in find_match_persion
+    return json.dumps(result, ensure_ascii=False)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/json.py", line 123, in dumps
+    rv = _json.dumps(obj, **kwargs)
+  File "/mnt/anaconda3/lib/python3.6/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/mnt/anaconda3/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/mnt/anaconda3/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/json.py", line 80, in default
+    return _json.JSONEncoder.default(self, o)
+  File "/mnt/anaconda3/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'FileNotFoundError' is not JSON serializable
+127.0.0.1 - - [23/May/2019 07:57:42] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 07:58:50] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 07:58:50] "POST /facecompare HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1997, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1985, in wsgi_app
+    response = self.handle_exception(e)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1540, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/mnt/dakaproject/daka/app.py", line 66, in find_match_persion
+    return json.dumps(result, ensure_ascii=False)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/json.py", line 123, in dumps
+    rv = _json.dumps(obj, **kwargs)
+  File "/mnt/anaconda3/lib/python3.6/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/mnt/anaconda3/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/mnt/anaconda3/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/json.py", line 80, in default
+    return _json.JSONEncoder.default(self, o)
+  File "/mnt/anaconda3/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'FileNotFoundError' is not JSON serializable
+127.0.0.1 - - [23/May/2019 08:20:54] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 08:20:54] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 08:27:26] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 08:27:26] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 08:29:36] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 08:29:36] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:03:39] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:03:39] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:04:03] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:04:03] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:08:56] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:08:56] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:15:13] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:15:13] "POST /facecompare HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1997, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1985, in wsgi_app
+    response = self.handle_exception(e)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1540, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/mnt/dakaproject/daka/app.py", line 66, in find_match_persion
+    return json.dumps(result, ensure_ascii=False)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/json.py", line 123, in dumps
+    rv = _json.dumps(obj, **kwargs)
+  File "/mnt/anaconda3/lib/python3.6/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/mnt/anaconda3/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/mnt/anaconda3/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/json.py", line 80, in default
+    return _json.JSONEncoder.default(self, o)
+  File "/mnt/anaconda3/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'FileNotFoundError' is not JSON serializable
+127.0.0.1 - - [23/May/2019 09:17:44] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:18:00] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:18:16] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:18:33] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:18:49] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:19:06] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:19:22] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:19:38] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:19:54] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:20:10] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:20:28] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:20:44] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:21:00] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:21:16] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:21:25] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:21:34] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 09:21:43] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:14:56] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:14:59] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:15:02] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:15:05] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:15:08] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:15:11] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:15:14] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:15:17] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:15:20] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:15:23] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:15:26] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:15:29] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:15:32] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:15:35] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:15:38] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:15:41] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:15:43] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:15:46] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:15:49] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:15:52] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:15:55] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:15:58] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:16:01] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:16:04] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:16:07] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:16:10] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:16:13] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:16:16] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:16:19] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:16:22] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:16:25] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:16:27] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:16:30] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:35:16] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:35:19] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:35:23] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:35:26] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:35:29] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:35:33] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:35:36] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:35:40] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:35:43] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:35:47] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:35:50] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:35:53] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:35:57] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:36:00] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:36:04] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:36:07] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:36:10] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:36:14] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:36:17] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 11:38:27] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 12:21:49] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 12:52:10] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 12:52:26] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 12:52:42] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 12:52:58] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 12:53:14] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 12:53:30] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 12:53:45] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 12:54:28] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 12:55:51] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 13:17:55] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 13:34:16] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 13:34:29] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [23/May/2019 13:35:17] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [24/May/2019 15:10:00] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [24/May/2019 15:10:00] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [24/May/2019 15:11:30] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [24/May/2019 15:13:57] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [24/May/2019 15:13:57] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [25/May/2019 10:52:10] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [25/May/2019 10:52:13] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [25/May/2019 10:54:38] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [25/May/2019 10:54:38] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [25/May/2019 11:23:44] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [25/May/2019 11:23:44] "POST /facecompare HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1997, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1985, in wsgi_app
+    response = self.handle_exception(e)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1540, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/_compat.py", line 33, in reraise
+    raise value
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/mnt/dakaproject/daka/app.py", line 66, in find_match_persion
+    return json.dumps(result, ensure_ascii=False)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/json.py", line 123, in dumps
+    rv = _json.dumps(obj, **kwargs)
+  File "/mnt/anaconda3/lib/python3.6/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/mnt/anaconda3/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/mnt/anaconda3/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/mnt/anaconda3/lib/python3.6/site-packages/flask/json.py", line 80, in default
+    return _json.JSONEncoder.default(self, o)
+  File "/mnt/anaconda3/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'FileNotFoundError' is not JSON serializable
+127.0.0.1 - - [25/May/2019 11:42:05] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [25/May/2019 11:42:09] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [25/May/2019 11:42:39] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [25/May/2019 12:06:42] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [25/May/2019 12:06:42] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [25/May/2019 13:14:02] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [25/May/2019 13:14:02] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [26/May/2019 01:05:37] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [26/May/2019 01:05:37] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [26/May/2019 01:05:54] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [26/May/2019 01:05:54] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [26/May/2019 08:09:39] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [26/May/2019 08:09:39] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [26/May/2019 13:18:50] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [26/May/2019 13:18:50] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [26/May/2019 13:19:15] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [26/May/2019 13:19:15] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [26/May/2019 14:43:38] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [26/May/2019 14:43:39] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [26/May/2019 14:43:48] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [26/May/2019 14:43:52] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [26/May/2019 14:43:52] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [26/May/2019 14:43:52] "POST /facecompare HTTP/1.1" 200 -
+127.0.0.1 - - [26/May/2019 14:53:02] "POST /insertpersion HTTP/1.1" 200 -
+127.0.0.1 - - [26/May/2019 14:53:03] "POST /facecompare HTTP/1.1" 200 -
